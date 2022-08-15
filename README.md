@@ -8,9 +8,8 @@
 
 ## Getting Started
 
-1. Fork this repository [https://github.com/riteshf/rct-101-e4.git](https://github.com/riteshf/rct-101-e4)
-2. Clone the Forked repository.
-   - **_Note_**: This Clone repository should be on your github account.
+1. Downlaod as ZIP from [https://github.com/riteshf/boilerplate-redux.git](https://github.com/riteshf/boilerplate-redux.git) inside masai-repo
+2. unzip.
 3. navigate to the folder `cd rct-101-e4`
 4. npm install
 5. npm start
