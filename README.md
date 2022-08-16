@@ -10,7 +10,7 @@
 
 1. Downlaod as ZIP from [https://github.com/riteshf/boilerplate-redux.git](https://github.com/riteshf/boilerplate-redux.git) inside masai-repo
 2. unzip.
-3. navigate to the folder `cd rct-101-e4`
+3. navigate to the folder `cd boilerplate-redux`
 4. npm install
 5. npm start
 6. Make sure your `json-server` is running on port `8080`, `db.json` file is provided.
